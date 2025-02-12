@@ -1,2 +1,2 @@
 print("Dasgal 1")
-print("Object")
+print("Object and classes")
